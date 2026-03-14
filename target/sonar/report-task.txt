@@ -1,0 +1,7 @@
+organization=summaryrex
+projectKey=summaryrex_test
+serverUrl=https://sonarcloud.io
+serverVersion=8.0.0.82486
+dashboardUrl=https://sonarcloud.io/dashboard?id=summaryrex_test
+ceTaskId=AZzPfiOlCc5HTkooEncS
+ceTaskUrl=https://sonarcloud.io/api/ce/task?id=AZzPfiOlCc5HTkooEncS
